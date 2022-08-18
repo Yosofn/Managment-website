@@ -1,0 +1,15 @@
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\bin\Debug\net5.0\BUsineesLogicLayer.deps.json
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\bin\Debug\net5.0\BUsineesLogicLayer.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\bin\Debug\net5.0\BUsineesLogicLayer.pdb
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.csproj.AssemblyReference.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.AssemblyInfoInputs.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.AssemblyInfo.cs
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.csproj.CoreCompileInputs.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\refint\BUsineesLogicLayer.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.pdb
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\ref\BUsineesLogicLayer.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\bin\Debug\net5.0\DAL.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\bin\Debug\net5.0\DAL.pdb
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\BUsineesLogicLayer\obj\Debug\net5.0\BUsineesLogicLayer.csproj.CopyComplete

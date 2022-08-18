@@ -1,0 +1,1523 @@
+﻿++Solution 'MVC-CRAUD' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:MVC-CRAUD.sln
+++DAL
+i:{00000000-0000-0000-0000-000000000000}:DAL
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\dal.csproj
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\dal.csproj
+++Dependencies
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:>367
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:>366
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1565
+++Context
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\context\
+++Entities
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\entities\
+++Department.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\entities\department.cs
+++Employee.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\entities\employee.cs
+++Migrations
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\
+++20220802055713_Department.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220802055713_department.cs
+++20220802060632_Employee.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220802060632_employee.cs
+++20220804064951_EmployeeDepartmentRelation.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220804064951_employeedepartmentrelation.cs
+++20220804064951_EmployeeDepartmentRelation.Designer.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220804064951_employeedepartmentrelation.designer.cs
+++ProjectContextModelSnapshot.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\projectcontextmodelsnapshot.cs
+++Analyzers
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:analyzers
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:analyzers
+++Frameworks
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:frameworks
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:frameworks
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:frameworks
+++Packages
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:packages
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:packages
+++ProjectContext.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\context\projectcontext.cs
+++20220802055713_Department.Designer.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220802055713_department.designer.cs
+++20220802060632_Employee.Designer.cs
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\migrations\20220802060632_employee.designer.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:c:\users\yosof nasr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:c:\users\yosof nasr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\users\yosof nasr\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.NETCore.App
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:d:\back end\asp.net core mvc\session 03\mvc-craud\dal\microsoft.netcore.app
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\microsoft.netcore.app
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:>1599
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1579
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{c480b68d-dacd-4c8f-b3a3-fc466fdce886}:>1601
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1582
+++BUsineesLogicLayer
+i:{00000000-0000-0000-0000-000000000000}:BUsineesLogicLayer
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\busineeslogiclayer.csproj
+++Interfaces
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\interfaces\
+++IDepartmentReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\interfaces\idepartmentreposatory.cs
+++IEmployeeReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\interfaces\iemployeereposatory.cs
+++IGenericReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\interfaces\igenericreposatory.cs
+++IUnitOfWork.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\interfaces\iunitofwork.cs
+++Reposatories
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\reposatories\
+++DepartmentReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\reposatories\departmentreposatory.cs
+++EmployeeReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\reposatories\employeereposatory.cs
+++GenericReposatory.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\reposatories\genericreposatory.cs
+++UnitOfWork.cs
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:d:\back end\asp.net core mvc\session 03\mvc-craud\busineeslogiclayer\reposatories\unitofwork.cs
+++Projects
+i:{5c28e079-4f98-40b8-a03f-65f116f51b5f}:projects
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:projects
+++PL
+i:{00000000-0000-0000-0000-000000000000}:PL
+++Connected Services 
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1566
+++Imports
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>580
+++Properties
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\properties\
+++wwwroot
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\
+++bin
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\
+++Controllers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\controllers\
+++DepartmentsController.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\controllers\departmentscontroller.cs
+++EmployeesController.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\controllers\employeescontroller.cs
+++HomeController.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\controllers\homecontroller.cs
+++Mapper
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\mapper\
+++DepartmentProfile.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\mapper\departmentprofile.cs
+++EmployeeProfile.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\mapper\employeeprofile.cs
+++Models
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\models\
+++DeprtmentViewModel.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\models\deprtmentviewmodel.cs
+++EmployeeModel.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\models\employeemodel.cs
+++ErrorViewModel.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\models\errorviewmodel.cs
+++obj
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\
+++Views
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\
+++Department
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\
+++Create.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\create.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\create.cshtml
+++Delete.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\delete.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\delete.cshtml
+++Details.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\details.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\details.cshtml
+++Edit.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\edit.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\edit.cshtml
+++Index.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\department\index.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\index.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\home\index.cshtml
+++Employee
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\
+++CreateEditPartialView.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\createeditpartialview.cshtml
+++DetailsDeletePartialView.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\detailsdeletepartialview.cshtml
+++EmployeeModel.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\employee\employeemodel.cshtml
+++Home
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\home\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\home\
+++Shared
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\shared\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\shared\
+++_Layout.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\shared\_validationscriptspartial.cshtml
+++buttinsPartialView.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\shared\buttinspartialview.cshtml
+++Error.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\_viewstart.cshtml
+++appsettings.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\appsettings.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\appsettings.json
+++Program.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\program.cs
+++Startup.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\startup.cs
+++No service dependencies discovered
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1567
+++Sdk.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\properties\launchsettings.json
+++css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\css\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\js\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\unix\lib\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\lib\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\lib\
+++favicon.ico
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\favicon.ico
+++Debug
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\
+++PL.csproj.nuget.dgspec.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\pl.csproj.nuget.dgspec.json
+++PL.csproj.nuget.g.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\pl.csproj.nuget.g.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\pl.csproj.nuget.g.props
+++PL.csproj.nuget.g.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\pl.csproj.nuget.g.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\pl.csproj.nuget.g.targets
+++project.assets.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\project.assets.json
+++project.nuget.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\project.nuget.cache
+++WebApplication1.csproj.nuget.dgspec.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\webapplication1.csproj.nuget.dgspec.json
+++WebApplication1.csproj.nuget.g.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\webapplication1.csproj.nuget.g.props
+++WebApplication1.csproj.nuget.g.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\webapplication1.csproj.nuget.g.targets
+++Privacy.cshtml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\views\home\privacy.cshtml
+++appsettings.Development.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\appsettings.development.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\users\yosof nasr\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\users\yosof nasr\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\microsoft.aspnetcore.app
+++AutoMapper.Extensions.Microsoft.DependencyInjection (11.0.0)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1580
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation (5.0.15)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1578
+++Microsoft.EntityFrameworkCore.Design (5.0.17)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1581
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:>1583
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++site.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\css\site.css
+++site.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\js\site.js
+++bootstrap
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\
+++jquery
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\
+++jquery-validation
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation-unobtrusive\
+++net5.0
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\
+++Microsoft.Common.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++dist
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\dist\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\license.txt
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\cs\
+++de
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\de\
+++es
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\es\
+++fr
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\fr\
+++it
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\it\
+++ja
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ja\
+++ko
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ko\
+++pl
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl\
+++pt-BR
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pt-br\
+++refs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\
+++ru
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ru\
+++runtimes
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\
+++tr
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\tr\
+++zh-Hans
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hans\
+++zh-Hant
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hant\
+++AutoMapper.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\automapper.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\automapper.extensions.microsoft.dependencyinjection.dll
+++BUsineesLogicLayer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\busineeslogiclayer.dll
+++BUsineesLogicLayer.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\busineeslogiclayer.pdb
+++DAL.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\dal.dll
+++DAL.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\dal.pdb
+++dotnet-aspnet-codegenerator-design.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+++Humanizer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\humanizer.dll
+++Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.aspnetcore.mvc.razor.extensions.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.codeanalysis.csharp.workspaces.dll
+++Microsoft.CodeAnalysis.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.codeanalysis.razor.dll
+++Microsoft.CodeAnalysis.Workspaces.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.codeanalysis.workspaces.dll
+++Microsoft.Data.SqlClient.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.data.sqlclient.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.extensions.dependencymodel.dll
+++Microsoft.Extensions.Options.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.extensions.primitives.dll
+++Microsoft.Identity.Client.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.identitymodel.tokens.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.contracts.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.core.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.entityframeworkcore.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.templating.dll
+++Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegeneration.utils.dll
+++Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\microsoft.visualstudio.web.codegenerators.mvc.dll
+++Newtonsoft.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\newtonsoft.json.dll
+++PL.deps.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.deps.json
+++PL.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\ref\pl.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\refint\pl.dll
+++PL.exe
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.exe
+++PL.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.pdb
+++PL.runtimeconfig.dev.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.runtimeconfig.dev.json
+++PL.runtimeconfig.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.runtimeconfig.json
+++PL.Views.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.views.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.views.dll
+++PL.Views.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl.views.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.views.pdb
+++System.Composition.AttributedModel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.composition.attributedmodel.dll
+++System.Composition.Convention.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.composition.convention.dll
+++System.Composition.Hosting.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.composition.hosting.dll
+++System.Composition.Runtime.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.composition.runtime.dll
+++System.Composition.TypedParts.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.composition.typedparts.dll
+++System.Configuration.ConfigurationManager.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.configuration.configurationmanager.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.diagnostics.diagnosticsource.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.runtime.caching.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Runtime.CompilerServices.Unsafe.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.runtime.compilerservices.unsafe.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\system.security.cryptography.protecteddata.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++Razor
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\
+++ref
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\ref\
+++refint
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\refint\
+++staticwebassets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\staticwebassets\
+++.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\.netcoreapp,version=v5.0.assemblyattributes.cs
+++apphost.exe
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\apphost.exe
+++PL.AssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.assemblyinfo.cs
+++PL.AssemblyInfoInputs.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.assemblyinfoinputs.cache
+++PL.assets.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.assets.cache
+++PL.csproj.AssemblyReference.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.csproj.assemblyreference.cache
+++PL.csproj.BuildWithSkipAnalyzers
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.csproj.buildwithskipanalyzers
+++PL.csproj.CopyComplete
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.csproj.copycomplete
+++PL.csproj.CoreCompileInputs.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.csproj.corecompileinputs.cache
+++PL.csproj.FileListAbsolute.txt
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.csproj.filelistabsolute.txt
+++PL.GeneratedMSBuildEditorConfig.editorconfig
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.generatedmsbuildeditorconfig.editorconfig
+++PL.genruntimeconfig.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.genruntimeconfig.cache
+++PL.MvcApplicationPartsAssemblyInfo.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.mvcapplicationpartsassemblyinfo.cache
+++PL.MvcApplicationPartsAssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.mvcapplicationpartsassemblyinfo.cs
+++PL.RazorAssemblyInfo.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.razorassemblyinfo.cache
+++PL.RazorAssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.razorassemblyinfo.cs
+++PL.RazorCoreGenerate.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.razorcoregenerate.cache
+++PL.RazorTargetAssemblyInfo.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.razortargetassemblyinfo.cache
+++PL.RazorTargetAssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.razortargetassemblyinfo.cs
+++PL.TagHelpers.input.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.taghelpers.input.cache
+++PL.TagHelpers.output.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\pl.taghelpers.output.cache
+++project.razor.json
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\project.razor.json
+++WebApplication1.AssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.assemblyinfo.cs
+++WebApplication1.AssemblyInfoInputs.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.assemblyinfoinputs.cache
+++WebApplication1.assets.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.assets.cache
+++WebApplication1.csproj.AssemblyReference.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.csproj.assemblyreference.cache
+++WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.generatedmsbuildeditorconfig.editorconfig
+++WebApplication1.RazorAssemblyInfo.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.razorassemblyinfo.cache
+++WebApplication1.RazorAssemblyInfo.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\webapplication1.razorassemblyinfo.cs
+++Microsoft.NuGet.ImportBefore.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Compilation.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.compilation.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.Component.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.component.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.5_0.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.5_0.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.5_0.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.5_0.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++jquery.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\cs\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\de\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\es\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\fr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\it\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ja\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ko\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pt-br\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ru\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\tr\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.csharp.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.csharp.workspaces.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\cs\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\de\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\es\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\fr\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\it\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ja\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ko\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ru\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\tr\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.resources.dll
+++Microsoft.CodeAnalysis.Workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\cs\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\de\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\es\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\fr\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\it\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ja\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ko\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pl\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\pt-br\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\ru\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\tr\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hans\microsoft.codeanalysis.workspaces.resources.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\zh-hant\microsoft.codeanalysis.workspaces.resources.dll
+++Microsoft.AspNetCore.Antiforgery.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.antiforgery.dll
+++Microsoft.AspNetCore.Authentication.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.abstractions.dll
+++Microsoft.AspNetCore.Authentication.Cookies.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.cookies.dll
+++Microsoft.AspNetCore.Authentication.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.core.dll
+++Microsoft.AspNetCore.Authentication.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.dll
+++Microsoft.AspNetCore.Authentication.OAuth.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authentication.oauth.dll
+++Microsoft.AspNetCore.Authorization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authorization.dll
+++Microsoft.AspNetCore.Authorization.Policy.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.authorization.policy.dll
+++Microsoft.AspNetCore.Components.Authorization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.components.authorization.dll
+++Microsoft.AspNetCore.Components.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.components.dll
+++Microsoft.AspNetCore.Components.Forms.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.components.forms.dll
+++Microsoft.AspNetCore.Components.Server.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.components.server.dll
+++Microsoft.AspNetCore.Components.Web.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.components.web.dll
+++Microsoft.AspNetCore.Connections.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.connections.abstractions.dll
+++Microsoft.AspNetCore.CookiePolicy.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.cookiepolicy.dll
+++Microsoft.AspNetCore.Cors.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.cors.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.DataProtection.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.abstractions.dll
+++Microsoft.AspNetCore.DataProtection.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.dll
+++Microsoft.AspNetCore.DataProtection.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.dataprotection.extensions.dll
+++Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.abstractions.dll
+++Microsoft.AspNetCore.Diagnostics.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.dll
+++Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.diagnostics.healthchecks.dll
+++Microsoft.AspNetCore.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.dll
+++Microsoft.AspNetCore.HostFiltering.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.hostfiltering.dll
+++Microsoft.AspNetCore.Hosting.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.abstractions.dll
+++Microsoft.AspNetCore.Hosting.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.dll
+++Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.hosting.server.abstractions.dll
+++Microsoft.AspNetCore.Html.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.html.abstractions.dll
+++Microsoft.AspNetCore.Http.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.abstractions.dll
+++Microsoft.AspNetCore.Http.Connections.Common.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.connections.common.dll
+++Microsoft.AspNetCore.Http.Connections.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.connections.dll
+++Microsoft.AspNetCore.Http.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.dll
+++Microsoft.AspNetCore.Http.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.extensions.dll
+++Microsoft.AspNetCore.Http.Features.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.http.features.dll
+++Microsoft.AspNetCore.HttpOverrides.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.httpoverrides.dll
+++Microsoft.AspNetCore.HttpsPolicy.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.httpspolicy.dll
+++Microsoft.AspNetCore.Identity.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.identity.dll
+++Microsoft.AspNetCore.Localization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.localization.dll
+++Microsoft.AspNetCore.Localization.Routing.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.localization.routing.dll
+++Microsoft.AspNetCore.Metadata.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.metadata.dll
+++Microsoft.AspNetCore.Mvc.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.abstractions.dll
+++Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.apiexplorer.dll
+++Microsoft.AspNetCore.Mvc.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.core.dll
+++Microsoft.AspNetCore.Mvc.Cors.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.cors.dll
+++Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.dataannotations.dll
+++Microsoft.AspNetCore.Mvc.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.formatters.json.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.formatters.xml.dll
+++Microsoft.AspNetCore.Mvc.Localization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.localization.dll
+++Microsoft.AspNetCore.Mvc.Razor.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.razor.dll
+++Microsoft.AspNetCore.Mvc.RazorPages.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.razorpages.dll
+++Microsoft.AspNetCore.Mvc.TagHelpers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.taghelpers.dll
+++Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.mvc.viewfeatures.dll
+++Microsoft.AspNetCore.Razor.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.razor.dll
+++Microsoft.AspNetCore.Razor.Runtime.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.razor.runtime.dll
+++Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecaching.abstractions.dll
+++Microsoft.AspNetCore.ResponseCaching.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecaching.dll
+++Microsoft.AspNetCore.ResponseCompression.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.responsecompression.dll
+++Microsoft.AspNetCore.Rewrite.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.rewrite.dll
+++Microsoft.AspNetCore.Routing.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.routing.abstractions.dll
+++Microsoft.AspNetCore.Routing.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.routing.dll
+++Microsoft.AspNetCore.Server.HttpSys.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.httpsys.dll
+++Microsoft.AspNetCore.Server.IIS.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.iis.dll
+++Microsoft.AspNetCore.Server.IISIntegration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.iisintegration.dll
+++Microsoft.AspNetCore.Server.Kestrel.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.core.dll
+++Microsoft.AspNetCore.Server.Kestrel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.server.kestrel.transport.sockets.dll
+++Microsoft.AspNetCore.Session.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.session.dll
+++Microsoft.AspNetCore.SignalR.Common.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.common.dll
+++Microsoft.AspNetCore.SignalR.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.core.dll
+++Microsoft.AspNetCore.SignalR.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.dll
+++Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.signalr.protocols.json.dll
+++Microsoft.AspNetCore.StaticFiles.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.staticfiles.dll
+++Microsoft.AspNetCore.WebSockets.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.websockets.dll
+++Microsoft.AspNetCore.WebUtilities.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.aspnetcore.webutilities.dll
+++Microsoft.CSharp.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.csharp.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.CommandLine.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.commandline.dll
+++Microsoft.Extensions.Configuration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.environmentvariables.dll
+++Microsoft.Extensions.Configuration.FileExtensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.fileextensions.dll
+++Microsoft.Extensions.Configuration.Ini.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.ini.dll
+++Microsoft.Extensions.Configuration.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.json.dll
+++Microsoft.Extensions.Configuration.KeyPerFile.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.keyperfile.dll
+++Microsoft.Extensions.Configuration.UserSecrets.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.usersecrets.dll
+++Microsoft.Extensions.Configuration.Xml.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.configuration.xml.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.diagnostics.healthchecks.abstractions.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.diagnostics.healthchecks.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Composite.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.composite.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.FileProviders.Physical.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.fileproviders.physical.dll
+++Microsoft.Extensions.FileSystemGlobbing.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.filesystemglobbing.dll
+++Microsoft.Extensions.Hosting.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.hosting.abstractions.dll
+++Microsoft.Extensions.Hosting.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.hosting.dll
+++Microsoft.Extensions.Http.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.http.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.identity.stores.dll
+++Microsoft.Extensions.Localization.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.localization.abstractions.dll
+++Microsoft.Extensions.Localization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.localization.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Logging.Debug.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.debug.dll
+++Microsoft.Extensions.Logging.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Logging.EventLog.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.eventlog.dll
+++Microsoft.Extensions.Logging.EventSource.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.eventsource.dll
+++Microsoft.Extensions.Logging.TraceSource.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.logging.tracesource.dll
+++Microsoft.Extensions.ObjectPool.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.objectpool.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Options.DataAnnotations.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.options.dataannotations.dll
+++Microsoft.Extensions.WebEncoders.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.extensions.webencoders.dll
+++Microsoft.JSInterop.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.jsinterop.dll
+++Microsoft.Net.Http.Headers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.net.http.headers.dll
+++Microsoft.VisualBasic.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.visualbasic.core.dll
+++Microsoft.VisualBasic.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.visualbasic.dll
+++Microsoft.Win32.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.win32.primitives.dll
+++Microsoft.Win32.Registry.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\microsoft.win32.registry.dll
+++mscorlib.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\mscorlib.dll
+++netstandard.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\netstandard.dll
+++System.AppContext.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.appcontext.dll
+++System.Buffers.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.buffers.dll
+++System.Collections.Concurrent.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.collections.concurrent.dll
+++System.Collections.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.collections.dll
+++System.Collections.Immutable.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.collections.immutable.dll
+++System.Collections.NonGeneric.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.collections.nongeneric.dll
+++System.Collections.Specialized.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.collections.specialized.dll
+++System.ComponentModel.Annotations.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.annotations.dll
+++System.ComponentModel.DataAnnotations.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.dataannotations.dll
+++System.ComponentModel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.dll
+++System.ComponentModel.EventBasedAsync.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.eventbasedasync.dll
+++System.ComponentModel.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.primitives.dll
+++System.ComponentModel.TypeConverter.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.componentmodel.typeconverter.dll
+++System.Configuration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.configuration.dll
+++System.Console.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.console.dll
+++System.Core.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.core.dll
+++System.Data.Common.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.data.common.dll
+++System.Data.DataSetExtensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.data.datasetextensions.dll
+++System.Data.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.data.dll
+++System.Diagnostics.Contracts.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.contracts.dll
+++System.Diagnostics.Debug.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.debug.dll
+++System.Diagnostics.EventLog.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.eventlog.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.Process.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.process.dll
+++System.Diagnostics.StackTrace.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.stacktrace.dll
+++System.Diagnostics.TextWriterTraceListener.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.textwritertracelistener.dll
+++System.Diagnostics.Tools.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.tools.dll
+++System.Diagnostics.TraceSource.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.tracesource.dll
+++System.Diagnostics.Tracing.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.diagnostics.tracing.dll
+++System.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.dll
+++System.Drawing.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.drawing.dll
+++System.Drawing.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.drawing.primitives.dll
+++System.Dynamic.Runtime.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.dynamic.runtime.dll
+++System.Formats.Asn1.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.formats.asn1.dll
+++System.Globalization.Calendars.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.globalization.calendars.dll
+++System.Globalization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.globalization.dll
+++System.Globalization.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.globalization.extensions.dll
+++System.IO.Compression.Brotli.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.compression.brotli.dll
+++System.IO.Compression.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.compression.dll
+++System.IO.Compression.FileSystem.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.compression.filesystem.dll
+++System.IO.Compression.ZipFile.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.compression.zipfile.dll
+++System.IO.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.dll
+++System.IO.FileSystem.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.filesystem.dll
+++System.IO.FileSystem.DriveInfo.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.filesystem.driveinfo.dll
+++System.IO.FileSystem.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.filesystem.primitives.dll
+++System.IO.FileSystem.Watcher.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.filesystem.watcher.dll
+++System.IO.IsolatedStorage.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.isolatedstorage.dll
+++System.IO.MemoryMappedFiles.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.memorymappedfiles.dll
+++System.IO.Pipelines.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.pipelines.dll
+++System.IO.Pipes.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.pipes.dll
+++System.IO.UnmanagedMemoryStream.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.io.unmanagedmemorystream.dll
+++System.Linq.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.linq.dll
+++System.Linq.Expressions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.linq.expressions.dll
+++System.Linq.Parallel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.linq.parallel.dll
+++System.Linq.Queryable.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.linq.queryable.dll
+++System.Memory.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.memory.dll
+++System.Net.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.dll
+++System.Net.Http.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.http.dll
+++System.Net.Http.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.http.json.dll
+++System.Net.HttpListener.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.httplistener.dll
+++System.Net.Mail.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.mail.dll
+++System.Net.NameResolution.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.nameresolution.dll
+++System.Net.NetworkInformation.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.networkinformation.dll
+++System.Net.Ping.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.ping.dll
+++System.Net.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.primitives.dll
+++System.Net.Requests.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.requests.dll
+++System.Net.Security.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.security.dll
+++System.Net.ServicePoint.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.servicepoint.dll
+++System.Net.Sockets.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.sockets.dll
+++System.Net.WebClient.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.webclient.dll
+++System.Net.WebHeaderCollection.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.webheadercollection.dll
+++System.Net.WebProxy.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.webproxy.dll
+++System.Net.WebSockets.Client.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.websockets.client.dll
+++System.Net.WebSockets.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.net.websockets.dll
+++System.Numerics.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.numerics.dll
+++System.Numerics.Vectors.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.numerics.vectors.dll
+++System.ObjectModel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.objectmodel.dll
+++System.Reflection.DispatchProxy.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.dispatchproxy.dll
+++System.Reflection.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.dll
+++System.Reflection.Emit.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.emit.dll
+++System.Reflection.Emit.ILGeneration.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.emit.ilgeneration.dll
+++System.Reflection.Emit.Lightweight.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.emit.lightweight.dll
+++System.Reflection.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.extensions.dll
+++System.Reflection.Metadata.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.metadata.dll
+++System.Reflection.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.primitives.dll
+++System.Reflection.TypeExtensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.reflection.typeextensions.dll
+++System.Resources.Reader.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.resources.reader.dll
+++System.Resources.ResourceManager.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.resources.resourcemanager.dll
+++System.Resources.Writer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.resources.writer.dll
+++System.Runtime.CompilerServices.VisualC.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.compilerservices.visualc.dll
+++System.Runtime.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.dll
+++System.Runtime.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.extensions.dll
+++System.Runtime.Handles.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.handles.dll
+++System.Runtime.InteropServices.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.interopservices.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.interopservices.runtimeinformation.dll
+++System.Runtime.Intrinsics.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.intrinsics.dll
+++System.Runtime.Loader.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.loader.dll
+++System.Runtime.Numerics.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.numerics.dll
+++System.Runtime.Serialization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.serialization.dll
+++System.Runtime.Serialization.Formatters.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.serialization.formatters.dll
+++System.Runtime.Serialization.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.serialization.json.dll
+++System.Runtime.Serialization.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.serialization.primitives.dll
+++System.Runtime.Serialization.Xml.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.runtime.serialization.xml.dll
+++System.Security.AccessControl.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.accesscontrol.dll
+++System.Security.Claims.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.claims.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Cng.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.cng.dll
+++System.Security.Cryptography.Csp.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.csp.dll
+++System.Security.Cryptography.Encoding.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.x509certificates.dll
+++System.Security.Cryptography.Xml.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.cryptography.xml.dll
+++System.Security.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.dll
+++System.Security.Permissions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.permissions.dll
+++System.Security.Principal.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.principal.dll
+++System.Security.Principal.Windows.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.principal.windows.dll
+++System.Security.SecureString.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.security.securestring.dll
+++System.ServiceModel.Web.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.servicemodel.web.dll
+++System.ServiceProcess.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.serviceprocess.dll
+++System.Text.Encoding.CodePages.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.encoding.codepages.dll
+++System.Text.Encoding.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.encoding.dll
+++System.Text.Encoding.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.encoding.extensions.dll
+++System.Text.Encodings.Web.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.encodings.web.dll
+++System.Text.Json.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.json.dll
+++System.Text.RegularExpressions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.text.regularexpressions.dll
+++System.Threading.Channels.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.channels.dll
+++System.Threading.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.dll
+++System.Threading.Overlapped.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.overlapped.dll
+++System.Threading.Tasks.Dataflow.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.tasks.dataflow.dll
+++System.Threading.Tasks.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.tasks.dll
+++System.Threading.Tasks.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.tasks.extensions.dll
+++System.Threading.Tasks.Parallel.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.tasks.parallel.dll
+++System.Threading.Thread.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.thread.dll
+++System.Threading.ThreadPool.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.threadpool.dll
+++System.Threading.Timer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.threading.timer.dll
+++System.Transactions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.transactions.dll
+++System.Transactions.Local.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.transactions.local.dll
+++System.ValueTuple.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.valuetuple.dll
+++System.Web.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.web.dll
+++System.Web.HttpUtility.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.web.httputility.dll
+++System.Windows.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.windows.dll
+++System.Windows.Extensions.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.windows.extensions.dll
+++System.Xml.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.dll
+++System.Xml.Linq.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.linq.dll
+++System.Xml.ReaderWriter.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.readerwriter.dll
+++System.Xml.Serialization.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.serialization.dll
+++System.Xml.XDocument.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.xdocument.dll
+++System.Xml.XmlDocument.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.xmldocument.dll
+++System.Xml.XmlSerializer.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.xmlserializer.dll
+++System.Xml.XPath.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\system.xml.xpath.xdocument.dll
+++WindowsBase.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\refs\windowsbase.dll
+++unix
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\unix\
+++win
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\
+++win-arm
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\
+++win-arm64
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\
+++win-x64
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x64\
+++win-x86
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x86\
+++PL.StaticWebAssets.Manifest.cache
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\staticwebassets\pl.staticwebassets.manifest.cache
+++Microsoft.EntityFrameworkCore.Design.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\users\yosof nasr\.nuget\packages\microsoft.entityframeworkcore.design\5.0.17\build\netcoreapp3.0\microsoft.entityframeworkcore.design.props
+++Microsoft.NuGet.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++native
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\native\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\native\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x64\native\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x86\native\
+++_ViewImports.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\_viewimports.cshtml.g.cs
+++_ViewStart.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\_viewstart.cshtml.g.cs
+++Microsoft.NET.ILLink.Tasks.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\jquery\dist\jquery.min.map
+++netcoreapp3.1
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\unix\lib\netcoreapp3.1\
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++Microsoft.Data.SqlClient.SNI.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.pdb
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.pdb
+++Create.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\create.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\create.cshtml.g.cs
+++Delete.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\delete.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\delete.cshtml.g.cs
+++Details.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\details.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\details.cshtml.g.cs
+++Edit.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\edit.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\edit.cshtml.g.cs
+++Index.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\department\index.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\index.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\home\index.cshtml.g.cs
+++CreateEditPartialView.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\createeditpartialview.cshtml.g.cs
+++DetailsDeletePartialView.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\detailsdeletepartialview.cshtml.g.cs
+++EmployeeModel.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\employee\employeemodel.cshtml.g.cs
+++Privacy.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\home\privacy.cshtml.g.cs
+++_Layout.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\shared\_layout.cshtml.g.cs
+++_ValidationScriptsPartial.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\shared\_validationscriptspartial.cshtml.g.cs
+++buttinsPartialView.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\shared\buttinspartialview.cshtml.g.cs
+++Error.cshtml.g.cs
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\obj\debug\net5.0\razor\views\shared\error.cshtml.g.cs
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++PL.csproj.user
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\pl.csproj.user
+++Microsoft.NET.props
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\users\yosof nasr\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\5.0.15\buildtransitive\net5.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.targets
+++bootstrap.min.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++dotnet-aspnet-codegenerator-design.exe
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\bin\debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+++Microsoft.Docker.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++bootstrap.bundle.min.js.map
+i:{0195a8a4-96ed-4988-89af-f5ef3b066f2c}:d:\back end\asp.net core mvc\session 03\mvc-craud\webapplication1\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map

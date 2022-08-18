@@ -1,0 +1,48 @@
+﻿@model IEnumerable<DepartmentViewModel>
+
+@{
+    ViewData["Title"] = "Departments";
+}
+
+<h1 >Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+    @ViewBag.Message
+    @ViewData["Message"]
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+          @*  <th>
+                @Html.DisplayNameFor(model => model.DateOfCreation)
+            </th>*@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var department in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => department.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => department.Code)
+            </td>
+           @* <td>
+                @Html.DisplayFor(modelItem => department.DateOfCreation)
+            </td>*@
+            <td>
+           <partial name="buttinsPartialView" model="department.Id"/>
+
+            </td>
+        </tr>
+}
+    </tbody>
+</table >

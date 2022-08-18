@@ -1,0 +1,15 @@
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\bin\Debug\net5.0\DAL.deps.json
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\bin\Debug\net5.0\DAL.runtimeconfig.json
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\bin\Debug\net5.0\DAL.runtimeconfig.dev.json
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\bin\Debug\net5.0\DAL.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\bin\Debug\net5.0\DAL.pdb
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.csproj.AssemblyReference.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.AssemblyInfoInputs.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.AssemblyInfo.cs
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.csproj.CoreCompileInputs.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\refint\DAL.dll
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.pdb
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\DAL.genruntimeconfig.cache
+D:\Back end\ASP.NET Core MVC\Session 03\MVC-CRAUD\DAL\obj\Debug\net5.0\ref\DAL.dll
